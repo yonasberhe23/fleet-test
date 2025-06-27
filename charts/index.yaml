@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  myhelmapp:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-06-27T11:38:36.465811-07:00"
+    description: A clean Helm chart for Fleet HelmOp testing
+    digest: a979a8ab37b7d8993d5b4b6590169a224319429df9a8f79e194d0a9ab7575b2d
+    name: myhelmapp
+    urls:
+    - https://raw.githubusercontent.com/yonasberhe23/fleet-test/main/charts/myhelmapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-06-27T11:38:36.465041-07:00"
