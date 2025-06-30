@@ -1,5 +1,5 @@
 apiVersion: v2
-name: myhelmapp
+name: my-helm-app
 description: A clean Helm chart for Fleet HelmOp testing
 version: 0.1.0
 appVersion: "1.0.0"
