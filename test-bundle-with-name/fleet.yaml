@@ -2,8 +2,5 @@ defaultNamespace: test-namespace
 name: custom-bundle-name
 # This custom name should break the UI link in 2.10
 
-helm:
-  releaseName: test-app
-  chart: "test-chart"
-  repo: "https://charts.helm.sh/stable"
-  version: "1.0.0"
+targets:
+  - clusterSelector: {}

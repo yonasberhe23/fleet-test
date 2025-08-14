@@ -2,8 +2,5 @@ defaultNamespace: cdi-system
 name: cdi
 # This custom name should break the UI link, as described in the original issue
 
-helm:
-  releaseName: cdi
-  chart: "cdi"
-  repo: "https://suse-edge.github.io/charts"
-  version: "0.5.1"
+targets:
+  - clusterSelector: {}
