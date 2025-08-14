@@ -1,4 +1,4 @@
-defaultNamespace: test-namespace
+defaultNamespace: test-namespace-custom
 name: custom-bundle-name
 # This custom name should break the UI link in 2.10
 

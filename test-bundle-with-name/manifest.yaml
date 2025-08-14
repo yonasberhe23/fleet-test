@@ -2,7 +2,7 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: test-configmap
-  namespace: test-namespace
+  namespace: test-namespace-custom
 data:
   key1: "value1"
   key2: "value2"
