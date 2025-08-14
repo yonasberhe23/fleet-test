@@ -1,9 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: test-configmap
-  namespace: test-namespace
-data:
-  key1: "value1"
-  key2: "value2"
-  message: "This is a test ConfigMap for baseline bundle"

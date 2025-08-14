@@ -1,6 +1,6 @@
 defaultNamespace: test-namespace
 name: custom-bundle-name
-# This custom name should break the UI link
+# This custom name should break the UI link in 2.10
 
 helm:
   releaseName: test-app
